@@ -1,0 +1,21 @@
+{
+  "name": "roblox-asset-proxy",
+  "version": "1.0.0",
+  "description": "A simple Node.js proxy for Roblox asset delivery with authentication.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "roblox",
+    "asset",
+    "proxy",
+    "koyeb"
+  ],
+  "author": "Gemini",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7" 
+  }
+}
