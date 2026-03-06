@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/thumbnail", "destination": "/api/thumbnail" },
+    { "source": "/asset",     "destination": "/api/asset" },
+    { "source": "/audio",     "destination": "/api/audio" },
+    { "source": "/health",    "destination": "/api/health" }
+  ]
+}
